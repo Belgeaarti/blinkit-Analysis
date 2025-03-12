@@ -1,10 +1,18 @@
 # blinkit-Analysis
 
-Project Overview 
+**Results are in Blinkit.pbix file follow below steps to access the result**
+
+
+
+**Project Overview**
 
 This project aims to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. The objective is to extract key insights and optimization opportunities using various KPIs and Power BI visualizations. 
 
+**Requirement**
 
+1. Installation of Power BI for that follow  following steps.
+   
+ 
 **STEPS TO DO:-**
 
 **Power BI installation:** 
